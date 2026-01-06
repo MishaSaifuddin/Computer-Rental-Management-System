@@ -131,8 +131,4 @@ This system applies a **layered security approach** to protect sensitive data an
 - Audit trail and compliance reporting  
 - Integration with secure payment gateways  
 
-## 👩‍💻 Author
 
-**Nurul Ummi Shahirah binti Mohd Saifuddin**  
-Information Security Student  
-Malaysia 🇲🇾
